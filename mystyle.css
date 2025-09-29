@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(202, 202, 202);
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+
+  color: rgb(107, 154, 168);
+  text-align: center;
+}
+
+p {
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+}
+
+h2 {
+  color: rgb(61, 97, 95);
+  margin-top: 20px;
+}
+
+ul, ol {
+  background-color: #f0f8ff;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+img {
+  border: 3px solid black;
+  margin: 10px;
+}
