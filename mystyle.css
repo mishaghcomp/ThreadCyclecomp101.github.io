@@ -27,5 +27,7 @@ ul, ol {
 
 img {
   border: 3px solid black;
+  border-radius: 10%;
   margin: 10px;
 }
+
